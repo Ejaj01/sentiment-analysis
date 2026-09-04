@@ -1,0 +1,4 @@
+Timestamp,Input Text,Prediction Score,Sentiment
+2026-09-04 00:00:00,I love this software,0.974448,Positive
+2026-09-04 00:01:00,This product is amazing,0.992137,Positive
+2026-09-04 00:02:00,This is terrible and useless,0.052389,Negative

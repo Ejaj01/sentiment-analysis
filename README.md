@@ -1,3 +1,14 @@
+# NLP Sentiment Analysis
+
+A lightweight, end-to-end Machine Learning pipeline featuring a custom **PyTorch Deep Learning Binary Classifier** built from scratch, deployed via an interactive **Streamlit** web application dashboard.
+
+---
+
+## Architecture & Workflow
+
+The system takes raw text string inputs and processes them through an entire localized MLOps pipeline:
+
+```text
 [Raw Text Input] 
        │
        ▼
@@ -40,8 +51,8 @@ Deployment Automation: Localized sub-process mapping
 How To Run the Application Locally
 1. Clone the Repository
 Bash
-git clone [https://github.com/Ejaj01/sentiment-analysis-pipeline.git](https://github.com/Ejaj01/sentiment-analysis-pipeline.git)
-cd sentiment-analysis-pipeline
+git clone [https://github.com/Ejaj01/sentiment-analysis.git](https://github.com/Ejaj01/sentiment-analysis.git)
+cd sentiment-analysis
 
 2. Configure Virtual Environment & Dependencies
 Ensure your environment paths are set up and that you have installed torch, streamlit, and scikit-learn.
